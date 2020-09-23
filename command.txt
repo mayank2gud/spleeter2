@@ -1,0 +1,4 @@
+spleeter separate -i '.mp3' -p spleeter:2stems -o Output
+
+Pycharm
+spleeter separate -i 1.mp3 -p spleeter:2stems -o Output
